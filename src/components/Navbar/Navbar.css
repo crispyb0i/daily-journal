@@ -1,0 +1,18 @@
+.navbar {
+  display: flex;
+  justify-content:space-around;
+  list-style: none;
+  background-color: #547DD3;
+  position: fixed;
+  width: 100%;
+}
+
+.navbar .navItem {
+  font-size: 40px;
+  padding: 15px;
+}
+
+.navbar .navItem a {
+  text-decoration: none;
+  color: white;
+}
